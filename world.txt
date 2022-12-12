@@ -1,0 +1,960 @@
+{
+  "name": "Being People World",
+  "description": "Not written",
+  "rating": 0,
+  "families": [
+    {
+      "name": "Shifu Family",
+      "head": {
+        "name": "Shifu",
+        "age_sort": "Adult- 200",
+        "job": "World-renowned Kung Fu Master of the Jade Palace",
+        "hobbies": "Meditating, Yoga, Reading Scrolls",
+        "family_power": "None",
+        "family_secret": "His eyes are blurred and scarred for life because he watched his parents die by Eric",
+        "is_current_guy": true,
+        "personality": {
+          "kind": 4,
+          "sap": 0,
+          "mis": 0,
+          "bul": 0,
+          "cons": 5,
+          "intel": 5,
+          "adven": 0,
+          "phy": 4,
+          "work": 5
+        }
+      },
+      "members": [
+        {
+          "name": "Black Jack",
+          "age_sort": "Teen- 18",
+          "job": "Doctor",
+          "hobbies": "Math, Physics, Coding- Helps out Horton, Sports (Futbol)",
+          "family_power": "Has Diamond-breaking power",
+          "family_secret": "He was named after the Jack of Clubs card and he is kind of like Po in Kung Fu Panda",
+          "is_current_guy": true,
+          "personality": {
+            "kind": 3,
+            "sap": 0,
+            "mis": 2,
+            "bul": 1,
+            "cons": 3,
+            "intel": 5,
+            "adven": 3,
+            "phy": 3,
+            "work": 4
+          }
+        },
+        {
+          "name": "Mawfred",
+          "age_sort": "Teen- 16",
+          "job": "Doctor",
+          "hobbies": "Swimming, Sports, Art, Fighting (Kung Fu Master)",
+          "family_power": "Has Diamond-breaking power",
+          "family_secret": "Her real name is Tweakie P. Coco and her pink nose is made out of bubblegum",
+          "is_current_guy": true,
+          "personality": {
+            "kind": 3,
+            "sap": 0,
+            "mis": 3,
+            "bul": 2,
+            "cons": 2,
+            "intel": 4,
+            "adven": 4,
+            "phy": 3,
+            "work": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Kitwe Family",
+      "head": {
+        "name": "Kitwe",
+        "age_sort": "Adult- 65",
+        "job": "BabySitter and Eskemo",
+        "hobbies": "Making Igloos, taking care of children",
+        "family_power": "None",
+        "family_secret": "She is the oldest guy and was originally from the United Kingdom, second she was shipped to Kitwe, Zambia, next she went to LivingStone, \n                then she moved to the United States and was in Fort Wayne, Indiana, and then moved to Houston, Texas, and finally she settled down in \n                her home- San Antonio, Texas",
+        "is_current_guy": true,
+        "personality": {
+          "kind": 5,
+          "sap": 5,
+          "mis": 0,
+          "bul": 0,
+          "cons": 5,
+          "intel": 2,
+          "adven": 0,
+          "phy": 2,
+          "work": 4
+        }
+      },
+      "members": [
+        {
+          "name": "Muhummad",
+          "age_sort": "Child-10",
+          "job": "Aquarium manager and Power Tower conductor",
+          "hobbies": "Swimming, Ocean activities, loves animals",
+          "family_power": "Has a back side full of ocean creatures",
+          "family_secret": "Saved a lost whale from the arctic poacher Lautaro Martinez",
+          "is_current_guy": true,
+          "personality": {
+            "kind": 4,
+            "sap": 3,
+            "mis": 1,
+            "bul": 0,
+            "cons": 1,
+            "intel": 2,
+            "adven": 4,
+            "phy": 3,
+            "work": 2
+          }
+        },
+        {
+          "name": "Jelita",
+          "age_sort": "Junior- 16",
+          "job": "Babysitter",
+          "hobbies": "Farming, going on adventures, hanging out with friends",
+          "family_power": "None",
+          "family_secret": "She is actually a Scarecrow and she has a secret identity as a superhero named Upar with flying power, super speed, and super strength.",
+          "is_current_guy": true,
+          "personality": {
+            "kind": 4,
+            "sap": 3,
+            "mis": 4,
+            "bul": 1,
+            "cons": 0,
+            "intel": 2,
+            "adven": 5,
+            "phy": 2,
+            "work": 3
+          }
+        },
+        {
+          "name": "Musa",
+          "age_sort": "Junior- 18",
+          "job": "Part time Artic Poacher",
+          "hobbies": "Futbol, Snorting",
+          "family_power": "None",
+          "family_secret": "One of his antlers is slightly unproportional to the other",
+          "is_current_guy": true,
+          "personality": {
+            "kind": 5,
+            "sap": 5,
+            "mis": 0,
+            "bul": 0,
+            "cons": 3,
+            "intel": 0,
+            "adven": 2,
+            "phy": 3,
+            "work": 3
+          }
+        }
+      ]
+    },
+    {
+      "name": "Orange Family",
+      "head": {
+        "name": "Tangerine",
+        "age_sort": "Adult",
+        "job": "Cook",
+        "hobbies": "Climbing, Traveling",
+        "family_power": "He has a sharp knife like object on his chest to chop food with and his smile is made out of a stringy french fry",
+        "family_secret": "He was originally bought from a wonderland amusement park in Canada and then donated in the Saint Croix U.S Virgin Islands. There this lonesome orangutan was found by nice guy Hamza in a shop and took him back to San Antonio, Texas",
+        "is_current_guy": true,
+        "personality": {
+          "kind": 5,
+          "sap": 5,
+          "mis": 0,
+          "bul": 0,
+          "cons": 2,
+          "intel": 2,
+          "adven": 2,
+          "phy": 3,
+          "work": 5
+        }
+      },
+      "members": [
+        {
+          "name": "Ernie",
+          "age_sort": "Child of 10",
+          "job": "None",
+          "hobbies": "Math- Unit Circles, Sneezing, Mud-baths",
+          "family_power": "Can flutter in the air and can hover",
+          "family_secret": "Allergic to everything except for Mud",
+          "is_current_guy": true,
+          "personality": {
+            "kind": 5,
+            "sap": 5,
+            "mis": 2,
+            "bul": 0,
+            "cons": 2,
+            "intel": 3,
+            "adven": 3,
+            "phy": 1,
+            "work": 2
+          }
+        }
+      ]
+    },
+    {
+      "name": "Chris Family",
+      "head": {
+        "name": "Chris",
+        "age_sort": "Adult- 27",
+        "job": "Ice Business Man",
+        "hobbies": "Lifting heavy objects, Eating, Parenting, Fighting",
+        "family_power": "None",
+        "family_secret": "He has the most gigantic Tuturi of All Time and is secretly afraid of Women",
+        "is_current_guy": true,
+        "personality": {
+          "kind": 3,
+          "sap": 0,
+          "mis": 2,
+          "bul": 2,
+          "cons": 3,
+          "intel": 2,
+          "adven": 2,
+          "phy": 5,
+          "work": 5
+        }
+      },
+      "members": [
+        {
+          "name": "Dhamal",
+          "age_sort": "Child- 11",
+          "job": "None",
+          "hobbies": "Climbing, Swimming, Dress-Up",
+          "family_power": "If she gets insulted or threatened enough, then her ears will stretch out and she will start taking flight and soar through the air at a high resultant velocity",
+          "family_secret": "She was separated from Horton and Ellie (her parents) by a tornado",
+          "is_current_guy": true,
+          "personality": {
+            "kind": 5,
+            "sap": 4,
+            "mis": 0,
+            "bul": 0,
+            "cons": 2,
+            "intel": 5,
+            "adven": 1,
+            "phy": 0,
+            "work": 4
+          }
+        },
+        {
+          "name": "Mulopezi",
+          "age_sort": "Adult of 32",
+          "job": "Alchemist and Prison Guard",
+          "hobbies": "Concocting deadly potions and ",
+          "family_power": "None",
+          "family_secret": "He is partially a woman",
+          "is_current_guy": true,
+          "personality": {
+            "kind": 1,
+            "sap": 0,
+            "mis": 4,
+            "bul": 3,
+            "cons": 1,
+            "intel": 5,
+            "adven": 3,
+            "phy": 3,
+            "work": 4
+          }
+        }
+      ]
+    },
+    {
+      "name": "Futbol Family",
+      "head": {
+        "name": "Tim",
+        "age_sort": "Junior- 15",
+        "job": "None",
+        "hobbies": "Love, Sports (BaseBall)",
+        "family_power": "None",
+        "family_secret": "He never smiles and has a grumpy face because of his bad memories of Toni Kroos",
+        "is_current_guy": true,
+        "personality": {
+          "kind": 2,
+          "sap": 0,
+          "mis": 0,
+          "bul": 3,
+          "cons": 1,
+          "intel": 2,
+          "adven": 4,
+          "phy": 4,
+          "work": 2
+        }
+      },
+      "members": []
+    },
+    {
+      "name": "Gang Family",
+      "head": {
+        "name": "Bobtail",
+        "age_sort": "Junior of 18",
+        "job": "Politician and News Reporter",
+        "hobbies": "Insulting innocent guys with cunning words",
+        "family_power": "None",
+        "family_secret": "Bobtail is actually not truly afraid of anything",
+        "is_current_guy": true,
+        "personality": {
+          "kind": 1,
+          "sap": 0,
+          "mis": 5,
+          "bul": 5,
+          "cons": 0,
+          "intel": 4,
+          "adven": 4,
+          "phy": 2,
+          "work": 4
+        }
+      },
+      "members": [
+        {
+          "name": "Johnny",
+          "age_sort": "Junior- 17",
+          "job": "None",
+          "hobbies": "Watching TV, Eating, Sleeping, Rapping, Smoking near Dumpsters, Fighting",
+          "family_power": "None",
+          "family_secret": "He came from a Goolanu Gang and is a Gorilla",
+          "is_current_guy": true,
+          "personality": {
+            "kind": 2,
+            "sap": 0,
+            "mis": 1,
+            "bul": 5,
+            "cons": 0,
+            "intel": 0,
+            "adven": 1,
+            "phy": 4,
+            "work": 0
+          }
+        }
+      ]
+    }
+  ],
+  "guys_without_family": [
+    {
+      "name": "Roshan",
+      "age_sort": "Junior- 19",
+      "job": "Architect, Inventor",
+      "hobbies": "Dancing, Playing Tricks",
+      "family_power": "None",
+      "family_secret": "The one thing Roshan is scared of is flips",
+      "is_current_guy": true,
+      "personality": {
+        "kind": 2,
+        "sap": 3,
+        "mis": 5,
+        "bul": 4,
+        "cons": 0,
+        "intel": 5,
+        "adven": 3,
+        "phy": 2,
+        "work": 3
+      }
+    }
+  ],
+  "past_guys": [
+    {
+      "name": "Tedrich",
+      "age_sort": "Adult",
+      "job": "King",
+      "hobbies": "Boxing, Wrestling, Basketball",
+      "family_power": "If you poke his butt, then he will jump up to 100 meters in the air.",
+      "family_secret": "He is secretly afraid of Cupcakes",
+      "is_current_guy": false,
+      "personality": {
+        "kind": 4,
+        "sap": 0,
+        "mis": 0,
+        "bul": 0,
+        "cons": 5,
+        "intel": 3,
+        "adven": 0,
+        "phy": 5,
+        "work": 5
+      }
+    },
+    {
+      "name": "Twiga",
+      "age_sort": "Adult",
+      "job": "Queen",
+      "hobbies": "Paperwork, Basketball",
+      "family_power": "Her neck can stretch up to 100 meters in the air",
+      "family_secret": "She has a purple tongue and can eat poisonous food from trees",
+      "is_current_guy": false,
+      "personality": {
+        "kind": 4,
+        "sap": 2,
+        "mis": 1,
+        "bul": 0,
+        "cons": 4,
+        "intel": 5,
+        "adven": 1,
+        "phy": 3,
+        "work": 3
+      }
+    },
+    {
+      "name": "Luanshia",
+      "age_sort": "Adult",
+      "job": "Aquarium entertainer and show-whale",
+      "hobbies": "Swimming, Ocean",
+      "family_power": "None",
+      "family_secret": "The white patches on her face are not her real eyes- they are only distractions and she was saved by muhammad from the deadly pochers in the Arctic",
+      "is_current_guy": false,
+      "personality": {
+        "kind": 1,
+        "sap": 0,
+        "mis": 2,
+        "bul": 3,
+        "cons": 1,
+        "intel": 2,
+        "adven": 5,
+        "phy": 4,
+        "work": 4
+      }
+    },
+    {
+      "name": "Pink Gorilla",
+      "age_sort": "Adult",
+      "job": "Supermarket clerk",
+      "hobbies": "Climbing, Dancing",
+      "family_power": "None",
+      "family_secret": "She is pink because peace pillow turned her pink",
+      "is_current_guy": false,
+      "personality": {
+        "kind": 4,
+        "sap": 2,
+        "mis": 1,
+        "bul": 1,
+        "cons": 4,
+        "intel": 3,
+        "adven": 2,
+        "phy": 5,
+        "work": 5
+      }
+    },
+    {
+      "name": "Georg",
+      "age_sort": "Adult",
+      "job": "Adventure Tackler- Ocean",
+      "hobbies": "Swimming, Ocean, Research",
+      "family_power": "None",
+      "family_secret": "He is actually Curious George (the monkey) dyed in blue food colouring",
+      "is_current_guy": false,
+      "personality": {
+        "kind": 1,
+        "sap": 0,
+        "mis": 2,
+        "bul": 3,
+        "cons": 3,
+        "intel": 4,
+        "adven": 3,
+        "phy": 5,
+        "work": 5
+      }
+    },
+    {
+      "name": "Baber",
+      "age_sort": "Adult",
+      "job": "Construction Worker",
+      "hobbies": "Building, Sharing and Caring",
+      "family_power": "He can beam sunshine out of his belly",
+      "family_secret": "He goo\u2019s out red hearts from his butt and is a Care-Bear",
+      "is_current_guy": false,
+      "personality": {
+        "kind": 5,
+        "sap": 4,
+        "mis": 0,
+        "bul": 0,
+        "cons": 3,
+        "intel": 3,
+        "adven": 0,
+        "phy": 4,
+        "work": 5
+      }
+    },
+    {
+      "name": "Snow White",
+      "age_sort": "Adult",
+      "job": "Cook",
+      "hobbies": "Singing, Dancing",
+      "family_power": "None",
+      "family_secret": "She is the disney princess- Snow White, she saved the Being People World by connecting a wire in the Five Bad Guy Attack",
+      "is_current_guy": false,
+      "personality": {
+        "kind": 5,
+        "sap": 5,
+        "mis": 0,
+        "bul": 0,
+        "cons": 4,
+        "intel": 2,
+        "adven": 0,
+        "phy": 0,
+        "work": 5
+      }
+    },
+    {
+      "name": "Leo",
+      "age_sort": "Child- 8",
+      "job": "None",
+      "hobbies": "Troublesome Three- loves making trouble and being naughty, Swimming, Sports",
+      "family_power": "Can shoot fire out of his head",
+      "family_secret": "He is Leo from the Little Einsteins",
+      "is_current_guy": false,
+      "personality": {
+        "kind": 2,
+        "sap": 4,
+        "mis": 1,
+        "bul": 2,
+        "cons": 0,
+        "intel": 4,
+        "adven": 1,
+        "phy": 2,
+        "work": 2
+      }
+    },
+    {
+      "name": "June",
+      "age_sort": "Child- 7",
+      "job": "None",
+      "hobbies": "Dancing, Dress-Up",
+      "family_power": "None",
+      "family_secret": "She is June from the Little Einsteins",
+      "is_current_guy": false,
+      "personality": {
+        "kind": 4,
+        "sap": 4,
+        "mis": 0,
+        "bul": 1,
+        "cons": 1,
+        "intel": 2,
+        "adven": 0,
+        "phy": 0,
+        "work": 2
+      }
+    },
+    {
+      "name": "Scooby",
+      "age_sort": "Teen",
+      "job": "Guard Dog",
+      "hobbies": "Catch, Running, Sports, Fighting",
+      "family_power": "None",
+      "family_secret": "He is Scooby the dog from the show Scooby-Dooby-Doo",
+      "is_current_guy": false,
+      "personality": {
+        "kind": 1,
+        "sap": 0,
+        "mis": 4,
+        "bul": 3,
+        "cons": 0,
+        "intel": 3,
+        "adven": 5,
+        "phy": 4,
+        "work": 4
+      }
+    },
+    {
+      "name": "Mae",
+      "age_sort": "Teen-14",
+      "job": "None",
+      "hobbies": "Dancing (Dance-Fighting)",
+      "family_power": "None",
+      "family_secret": "Her real name is Tweakie P. Natalie",
+      "is_current_guy": false,
+      "personality": {
+        "kind": 3,
+        "sap": 3,
+        "mis": 2,
+        "bul": 2,
+        "cons": 3,
+        "intel": 2,
+        "adven": 3,
+        "phy": 3,
+        "work": 5
+      }
+    },
+    {
+      "name": "Winnie",
+      "age_sort": "Teen-19",
+      "job": "Personal Fitness Trainer, Adviser, and Honey Collector",
+      "hobbies": "Helping others, Sports, Working-Out",
+      "family_power": "One of his arms can punch extremely hard",
+      "family_secret": "He is Whinnie the Pooh from the show, can make a rattling noise, and was nice guy Hamza\u2019s first guy",
+      "is_current_guy": false,
+      "personality": {
+        "kind": 3,
+        "sap": 0,
+        "mis": 2,
+        "bul": 2,
+        "cons": 5,
+        "intel": 1,
+        "adven": 2,
+        "phy": 4,
+        "work": 4
+      }
+    },
+    {
+      "name": "Horton",
+      "age_sort": "Adult",
+      "job": "Cyber Security worker, Coder, Scientist, and Hacker",
+      "hobbies": "Math, Coding, Science, Farming, and Fighting- (Kung Fu master) and can go into the room",
+      "family_power": "None",
+      "family_secret": "He was founded and bought by nice guy Farhan and constructed the company of HortonWorks by Hadoop",
+      "is_current_guy": false,
+      "personality": {
+        "kind": 3,
+        "sap": 0,
+        "mis": 1,
+        "bul": 3,
+        "cons": 3,
+        "intel": 5,
+        "adven": 0,
+        "phy": 4,
+        "work": 5
+      }
+    },
+    {
+      "name": "Khan",
+      "age_sort": "Adult",
+      "job": "Guardian",
+      "hobbies": "Fighting, Hunting",
+      "family_power": "He is the only guy that can go through the reef due to his special bracelet",
+      "family_secret": "He is Share Khan from the Jungle Book and is afraid of fire",
+      "is_current_guy": false,
+      "personality": {
+        "kind": 4,
+        "sap": 0,
+        "mis": 1,
+        "bul": 0,
+        "cons": 4,
+        "intel": 3,
+        "adven": 0,
+        "phy": 5,
+        "work": 5
+      }
+    },
+    {
+      "name": "Kimo Bajie",
+      "age_sort": "Teen- 12",
+      "job": "None",
+      "hobbies": "Loves Bushes, Cuddling, Hunting",
+      "family_power": "None",
+      "family_secret": "He is from bad guy Ava\u2019s house",
+      "is_current_guy": false,
+      "personality": {
+        "kind": 3,
+        "sap": 3,
+        "mis": 2,
+        "bul": 2,
+        "cons": 1,
+        "intel": 4,
+        "adven": 3,
+        "phy": 3,
+        "work": 3
+      }
+    },
+    {
+      "name": "Gulati Goo",
+      "age_sort": "Child- 6",
+      "job": "None",
+      "hobbies": "Playing Ball, Sports (Basketball), Troublesome Three- loves making trouble and being naughty",
+      "family_power": "He has a special scarf that can be used to help him do many things, but when he unravels it his neck becomes very weak",
+      "family_secret": "He can eat goo and is Eric\u2019s son",
+      "is_current_guy": false,
+      "personality": {
+        "kind": 2,
+        "sap": 0,
+        "mis": 4,
+        "bul": 3,
+        "cons": 0,
+        "intel": 2,
+        "adven": 4,
+        "phy": 2,
+        "work": 2
+      }
+    },
+    {
+      "name": "Murchu",
+      "age_sort": "Child- 6",
+      "job": "None",
+      "hobbies": "Troublesome Three- loves making trouble and being naughty, Hunting",
+      "family_power": "He has a very loud and scary roar that can spark some bad memories to guys",
+      "family_secret": "He is from Destin, Florida and can drink Wee Wee",
+      "is_current_guy": false,
+      "personality": {
+        "kind": 2,
+        "sap": 0,
+        "mis": 4,
+        "bul": 4,
+        "cons": 0,
+        "intel": 2,
+        "adven": 4,
+        "phy": 1,
+        "work": 1
+      }
+    },
+    {
+      "name": "Bindi",
+      "age_sort": "Junior- 15",
+      "job": "None",
+      "hobbies": "Love, Sports, Performing",
+      "family_power": "Her fancy heels have Poison Ivy in them",
+      "family_secret": "She is nice guy Hessa\u2019s first guy",
+      "is_current_guy": false,
+      "personality": {
+        "kind": 2,
+        "sap": 2,
+        "mis": 4,
+        "bul": 3,
+        "cons": 0,
+        "intel": 2,
+        "adven": 4,
+        "phy": 2,
+        "work": 1
+      }
+    },
+    {
+      "name": "Tuclo",
+      "age_sort": "Junior- 25 (Twins with Snoopy)",
+      "job": "Kung Fu Master",
+      "hobbies": "Flying, loves cold and snow",
+      "family_power": "None",
+      "family_secret": "He is part bad guy, Snoopy\u2019s secret twin brother who destroyed the Magical Bird Kingdom, and is kind of like the Owl from Kung Fu Panda Legends of Awesomeness",
+      "is_current_guy": false,
+      "personality": {
+        "kind": 1,
+        "sap": 1,
+        "mis": 3,
+        "bul": 3,
+        "cons": 0,
+        "intel": 4,
+        "adven": 4,
+        "phy": 3,
+        "work": 3
+      }
+    },
+    {
+      "name": "Kafue",
+      "age_sort": "Adult",
+      "job": "Kung Fu Master",
+      "hobbies": "Meditating, Yoga, Reading Scrolls",
+      "family_power": "None",
+      "family_secret": "Her parents died by Eric and her feet are scarred with Poison Ivy marks because she fell inside a bush full of Poison Ivy",
+      "is_current_guy": false,
+      "personality": {
+        "kind": 3,
+        "sap": 2,
+        "mis": 2,
+        "bul": 2,
+        "cons": 3,
+        "intel": 3,
+        "adven": 3,
+        "phy": 4,
+        "work": 3
+      }
+    },
+    {
+      "name": "McCay",
+      "age_sort": "Adult",
+      "job": "Farmer and Food Supplier",
+      "hobbies": "Cooking",
+      "family_power": "None",
+      "family_secret": "He is from Robert Muller School and was captured by an evil farmer guy",
+      "is_current_guy": false,
+      "personality": {
+        "kind": 3,
+        "sap": 2,
+        "mis": 1,
+        "bul": 0,
+        "cons": 3,
+        "intel": 3,
+        "adven": 2,
+        "phy": 1,
+        "work": 4
+      }
+    },
+    {
+      "name": "Banda",
+      "age_sort": "Junior- 15",
+      "job": "Entrepreneur- owns his own travel company where guys can book trips, hotels, and tours around the world (he is the tour guide)",
+      "hobbies": "Spending time with friends",
+      "family_power": "None",
+      "family_secret": "He can shape-shift into different animals- kind of like Maui in Moana",
+      "is_current_guy": false,
+      "personality": {
+        "kind": 3,
+        "sap": 0,
+        "mis": 0,
+        "bul": 0,
+        "cons": 3,
+        "intel": 3,
+        "adven": 2,
+        "phy": 3,
+        "work": 3
+      }
+    },
+    {
+      "name": "Abdul",
+      "age_sort": "Adult- 30",
+      "job": "Farmer",
+      "hobbies": "Dancing",
+      "family_power": "None",
+      "family_secret": "TBD",
+      "is_current_guy": false,
+      "personality": {
+        "kind": 4,
+        "sap": 0,
+        "mis": 0,
+        "bul": 0,
+        "cons": 4,
+        "intel": 2,
+        "adven": 1,
+        "phy": 3,
+        "work": 4
+      }
+    },
+    {
+      "name": "Cornelius",
+      "age_sort": "Junior- 18",
+      "job": "Performer and Street Snake",
+      "hobbies": "Slithering, Running, Dancing, Playing Tricks",
+      "family_power": "His tongue can freeze stuff",
+      "family_secret": "He is Nerf-Gun-Bullet's son",
+      "is_current_guy": false,
+      "personality": {
+        "kind": 2,
+        "sap": 0,
+        "mis": 2,
+        "bul": 4,
+        "cons": 3,
+        "intel": 3,
+        "adven": 3,
+        "phy": 2,
+        "work": 4
+      }
+    },
+    {
+      "name": "Totho",
+      "age_sort": "Child- Baby of 4",
+      "job": "None",
+      "hobbies": "Dressing up, Helping People",
+      "family_power": "He can see through his costume eyes and likes crocodiles",
+      "family_secret": "He is nice guy Hamza\u2019s oldest guy and is Olive\u2019s companion",
+      "is_current_guy": false,
+      "personality": {
+        "kind": 5,
+        "sap": 5,
+        "mis": 0,
+        "bul": 0,
+        "cons": 5,
+        "intel": 5,
+        "adven": 2,
+        "phy": 0,
+        "work": 4
+      }
+    },
+    {
+      "name": "Vavu",
+      "age_sort": "Adult",
+      "job": "Kung Fu Teacher",
+      "hobbies": "Meditating, Reading Scrolls",
+      "family_power": "He has tie dye power stored in his eyes",
+      "family_secret": "He has had a hard past and is actually a devil bucky",
+      "is_current_guy": false,
+      "personality": {
+        "kind": 3,
+        "sap": 0,
+        "mis": 2,
+        "bul": 2,
+        "cons": 5,
+        "intel": 5,
+        "adven": 1,
+        "phy": 5,
+        "work": 5
+      }
+    },
+    {
+      "name": "Mike",
+      "age_sort": "Adult",
+      "job": "Security and Manager",
+      "hobbies": "Research, Math, Fighting",
+      "family_power": "When he looks directly into your eyes, it shoots a laser and temporarily blinds you",
+      "family_secret": "He is Mike Wasowski from Monsters Inc",
+      "is_current_guy": false,
+      "personality": {
+        "kind": 1,
+        "sap": 0,
+        "mis": 3,
+        "bul": 4,
+        "cons": 2,
+        "intel": 4,
+        "adven": 2,
+        "phy": 5,
+        "work": 5
+      }
+    },
+    {
+      "name": "Mulenga",
+      "age_sort": "Adult",
+      "job": "Security and Manager, Beauty Queen",
+      "hobbies": "Swimming, Kung Fu, Being Beautiful",
+      "family_power": "Her Sequins reflect such a powerful, bright ray of colors that can out-sparkle almost anything",
+      "family_secret": "She was once a Chandelier in a house and is secretly a Stonefish",
+      "is_current_guy": false,
+      "personality": {
+        "kind": 5,
+        "sap": 4,
+        "mis": 2,
+        "bul": 0,
+        "cons": 5,
+        "intel": 3,
+        "adven": 1,
+        "phy": 4,
+        "work": 4
+      }
+    },
+    {
+      "name": "Ginger",
+      "age_sort": "Adult",
+      "job": "Guard",
+      "hobbies": "Cooking, Eating, Fighting, Playing",
+      "family_power": "None",
+      "family_secret": "He is a gingerbread man and a pillow",
+      "is_current_guy": false,
+      "personality": {
+        "kind": 5,
+        "sap": 2,
+        "mis": 3,
+        "bul": 1,
+        "cons": 3,
+        "intel": 3,
+        "adven": 2,
+        "phy": 5,
+        "work": 3
+      }
+    },
+    {
+      "name": "Ronaldo",
+      "age_sort": "Adult man of 37",
+      "job": "Professional Futbol Player",
+      "hobbies": "Eating, Sunbathing, Saving the World, Fighting",
+      "family_power": "He can fly and has superpowers",
+      "family_secret": "He has the second-biggest Tuturi of All Time and secretly is obsessed with Women",
+      "is_current_guy": false,
+      "personality": {
+        "kind": 3,
+        "sap": 0,
+        "mis": 0,
+        "bul": 0,
+        "cons": 3,
+        "intel": 3,
+        "adven": 4,
+        "phy": 5,
+        "work": 5
+      }
+    }
+  ]
+}
